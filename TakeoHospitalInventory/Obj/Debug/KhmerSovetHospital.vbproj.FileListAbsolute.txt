@@ -966,3 +966,12 @@ D:\CurrentProject\DrDoseha.git\trunk\ClinicDoSeiha\TakeoHospitalInventory\obj\De
 D:\CurrentProject\DrDoseha.git\trunk\ClinicDoSeiha\TakeoHospitalInventory\obj\Debug\TakeoHospitalInventory.exe.licenses
 D:\CurrentProject\DrDoseha.git\trunk\ClinicDoSeiha\TakeoHospitalInventory\obj\Debug\ca-ES\TakeoHospitalInventory.resources.dll
 D:\CurrentProject\DrDoseha.git\trunk\ClinicDoSeiha\TakeoHospitalInventory\obj\Debug\ca\TakeoHospitalInventory.resources.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\bin\Debug\TakeoHospitalInventory.exe.config
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\Interop.AcroPDFLib.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\Interop.CRAXDDRT.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\KhmerSovetHospital.vbproj.ResolveComReference.cache
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\TakeoHospitalInventory.xml
+C:\BanYanno\SoftProject\DrDoseha\TakeoHospitalInventory\obj\Debug\TakeoHospitalInventory.pdb

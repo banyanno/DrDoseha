@@ -1405,25 +1405,25 @@ Partial Class DashboardDoctorConsult
         Me.ContextMenuFollowUp.Font = New System.Drawing.Font("Segoe UI", 12.0!)
         Me.ContextMenuFollowUp.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BtnNewConsultFollow, Me.ToolStripMenuItem1, Me.BtnCancelFollowUP})
         Me.ContextMenuFollowUp.Name = "ContextMenuFollowUp"
-        Me.ContextMenuFollowUp.Size = New System.Drawing.Size(292, 62)
+        Me.ContextMenuFollowUp.Size = New System.Drawing.Size(291, 62)
         '
         'BtnNewConsultFollow
         '
         Me.BtnNewConsultFollow.ForeColor = System.Drawing.Color.Blue
         Me.BtnNewConsultFollow.Name = "BtnNewConsultFollow"
-        Me.BtnNewConsultFollow.Size = New System.Drawing.Size(291, 26)
+        Me.BtnNewConsultFollow.Size = New System.Drawing.Size(290, 26)
         Me.BtnNewConsultFollow.Text = "New Consult Patient FollowUp"
         '
         'ToolStripMenuItem1
         '
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
-        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(288, 6)
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(287, 6)
         '
         'BtnCancelFollowUP
         '
         Me.BtnCancelFollowUP.ForeColor = System.Drawing.Color.Blue
         Me.BtnCancelFollowUP.Name = "BtnCancelFollowUP"
-        Me.BtnCancelFollowUP.Size = New System.Drawing.Size(291, 26)
+        Me.BtnCancelFollowUP.Size = New System.Drawing.Size(290, 26)
         Me.BtnCancelFollowUP.Text = "Cancel FollowUp"
         '
         'UiTab1

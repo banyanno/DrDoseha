@@ -227,7 +227,7 @@ Partial Class NewDoctorConsult
         '
         'TxtDiagnosisCode
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtDiagnosisCode, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtDiagnosisCode, Nothing)
         Me.TxtDiagnosisCode.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtDiagnosisCode.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtDiagnosisCode.Location = New System.Drawing.Point(626, 9)
@@ -283,7 +283,7 @@ Partial Class NewDoctorConsult
         '
         'TxtIOPLE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtIOPLE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtIOPLE, Nothing)
         Me.TxtIOPLE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtIOPLE.Location = New System.Drawing.Point(567, 59)
         Me.TxtIOPLE.Name = "TxtIOPLE"
@@ -293,7 +293,7 @@ Partial Class NewDoctorConsult
         '
         'TxtIOPRE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtIOPRE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtIOPRE, Nothing)
         Me.TxtIOPRE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtIOPRE.Location = New System.Drawing.Point(567, 25)
         Me.TxtIOPRE.Name = "TxtIOPRE"
@@ -303,7 +303,7 @@ Partial Class NewDoctorConsult
         '
         'TxtLLE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtLLE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtLLE, Nothing)
         Me.TxtLLE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtLLE.Location = New System.Drawing.Point(497, 59)
         Me.TxtLLE.Name = "TxtLLE"
@@ -313,7 +313,7 @@ Partial Class NewDoctorConsult
         '
         'TxtRRE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtRRE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtRRE, Nothing)
         Me.TxtRRE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtRRE.Location = New System.Drawing.Point(497, 25)
         Me.TxtRRE.Name = "TxtRRE"
@@ -347,7 +347,7 @@ Partial Class NewDoctorConsult
         '
         'TxtLREF
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtLREF, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtLREF, Nothing)
         Me.TxtLREF.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtLREF.Location = New System.Drawing.Point(279, 59)
         Me.TxtLREF.Name = "TxtLREF"
@@ -357,7 +357,7 @@ Partial Class NewDoctorConsult
         '
         'TxtRREF
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtRREF, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtRREF, Nothing)
         Me.TxtRREF.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtRREF.Location = New System.Drawing.Point(279, 25)
         Me.TxtRREF.Name = "TxtRREF"
@@ -367,7 +367,7 @@ Partial Class NewDoctorConsult
         '
         'TxtLPh
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtLPh, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtLPh, Nothing)
         Me.TxtLPh.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtLPh.Location = New System.Drawing.Point(152, 59)
         Me.TxtLPh.Name = "TxtLPh"
@@ -377,7 +377,7 @@ Partial Class NewDoctorConsult
         '
         'TxtNameKhmer
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtNameKhmer, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtNameKhmer, Nothing)
         Me.TxtNameKhmer.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtNameKhmer.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtNameKhmer.Location = New System.Drawing.Point(752, 29)
@@ -388,7 +388,7 @@ Partial Class NewDoctorConsult
         '
         'TxtRPh
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtRPh, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtRPh, Nothing)
         Me.TxtRPh.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtRPh.Location = New System.Drawing.Point(152, 25)
         Me.TxtRPh.Name = "TxtRPh"
@@ -398,7 +398,7 @@ Partial Class NewDoctorConsult
         '
         'TxtLE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtLE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtLE, Nothing)
         Me.TxtLE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtLE.Location = New System.Drawing.Point(44, 59)
         Me.TxtLE.Name = "TxtLE"
@@ -408,7 +408,7 @@ Partial Class NewDoctorConsult
         '
         'TxtRE
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtRE, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtRE, Nothing)
         Me.TxtRE.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtRE.Location = New System.Drawing.Point(44, 25)
         Me.TxtRE.Name = "TxtRE"
@@ -537,7 +537,7 @@ Partial Class NewDoctorConsult
         '
         'TxtMedication
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtMedication, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtMedication, Nothing)
         Me.TxtMedication.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtMedication.Font = New System.Drawing.Font("Khmer OS Battambang", 12.0!)
         Me.TxtMedication.Location = New System.Drawing.Point(7, 110)
@@ -619,7 +619,7 @@ Partial Class NewDoctorConsult
         '
         'TxtAgePatient
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtAgePatient, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtAgePatient, Nothing)
         Me.TxtAgePatient.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtAgePatient.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtAgePatient.Location = New System.Drawing.Point(355, 26)
@@ -629,7 +629,7 @@ Partial Class NewDoctorConsult
         '
         'TxtTel
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtTel, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtTel, Nothing)
         Me.TxtTel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtTel.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtTel.Location = New System.Drawing.Point(115, 112)
@@ -677,7 +677,7 @@ Partial Class NewDoctorConsult
         '
         'TxtNameEng
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtNameEng, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtNameEng, Nothing)
         Me.TxtNameEng.BackColor = System.Drawing.Color.White
         Me.TxtNameEng.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtNameEng.Font = New System.Drawing.Font("Khmer OS Battambang", 16.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -698,7 +698,7 @@ Partial Class NewDoctorConsult
         '
         'TxtPatientNo
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtPatientNo, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtPatientNo, Nothing)
         Me.TxtPatientNo.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.TxtPatientNo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtPatientNo.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -757,7 +757,7 @@ Partial Class NewDoctorConsult
         '
         'TxtDiagnosisNote
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtDiagnosisNote, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtDiagnosisNote, Nothing)
         Me.TxtDiagnosisNote.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtDiagnosisNote.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtDiagnosisNote.Location = New System.Drawing.Point(705, 249)
@@ -811,7 +811,7 @@ Partial Class NewDoctorConsult
         '
         'TxtPriceSurgery
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtPriceSurgery, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtPriceSurgery, Nothing)
         Me.TxtPriceSurgery.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtPriceSurgery.Enabled = False
         Me.TxtPriceSurgery.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -1246,7 +1246,7 @@ Partial Class NewDoctorConsult
         '
         'TxtSurgeryCode
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtSurgeryCode, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtSurgeryCode, Nothing)
         Me.TxtSurgeryCode.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtSurgeryCode.Enabled = False
         Me.TxtSurgeryCode.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -1283,7 +1283,7 @@ Partial Class NewDoctorConsult
         '
         'TxtQTY
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtQTY, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtQTY, Nothing)
         Me.TxtQTY.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtQTY.Font = New System.Drawing.Font("Verdana", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtQTY.Location = New System.Drawing.Point(844, 37)
@@ -1533,7 +1533,7 @@ Partial Class NewDoctorConsult
         '
         'TxtCompli
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtCompli, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtCompli, Nothing)
         Me.TxtCompli.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtCompli.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtCompli.Location = New System.Drawing.Point(134, 176)
@@ -1544,7 +1544,7 @@ Partial Class NewDoctorConsult
         '
         'TxtAnesthesia
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtAnesthesia, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtAnesthesia, Nothing)
         Me.TxtAnesthesia.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtAnesthesia.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtAnesthesia.Location = New System.Drawing.Point(133, 56)
@@ -1782,7 +1782,7 @@ Partial Class NewDoctorConsult
         '
         'TxtFollowUpNote
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtFollowUpNote, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtFollowUpNote, Nothing)
         Me.TxtFollowUpNote.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtFollowUpNote.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
         Me.TxtFollowUpNote.Location = New System.Drawing.Point(6, 118)
@@ -2003,7 +2003,7 @@ Partial Class NewDoctorConsult
         '
         'TxtHistory
         '
-        Me.AutoDiagnosis.SetAutocompleteMenu(Me.TxtHistory, Nothing)
+        Me.AutoMedication.SetAutocompleteMenu(Me.TxtHistory, Nothing)
         Me.TxtHistory.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TxtHistory.Font = New System.Drawing.Font("Khmer OS Battambang", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtHistory.Location = New System.Drawing.Point(10, 169)
@@ -2085,7 +2085,7 @@ Partial Class NewDoctorConsult
         Me.BtnNewReferral.Image = Global.TakeoHospitalInventory.My.Resources.Resources.referral_iconX
         Me.BtnNewReferral.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.BtnNewReferral.Name = "BtnNewReferral"
-        Me.BtnNewReferral.Size = New System.Drawing.Size(173, 50)
+        Me.BtnNewReferral.Size = New System.Drawing.Size(172, 50)
         Me.BtnNewReferral.Text = "  New Patient Referral  "
         Me.BtnNewReferral.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
         '
