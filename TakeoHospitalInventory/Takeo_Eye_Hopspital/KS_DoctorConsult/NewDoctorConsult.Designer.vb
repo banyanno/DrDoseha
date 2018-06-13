@@ -895,7 +895,7 @@ Partial Class NewDoctorConsult
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel2.Location = New System.Drawing.Point(0, 0)
         Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(1594, 819)
+        Me.Panel2.Size = New System.Drawing.Size(1442, 819)
         Me.Panel2.TabIndex = 0
         '
         'UiTab1
@@ -905,7 +905,7 @@ Partial Class NewDoctorConsult
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.UiTab1.Location = New System.Drawing.Point(5, 249)
         Me.UiTab1.Name = "UiTab1"
-        Me.UiTab1.Size = New System.Drawing.Size(1578, 558)
+        Me.UiTab1.Size = New System.Drawing.Size(1708, 524)
         Me.UiTab1.TabIndex = 34
         Me.UiTab1.TabPages.AddRange(New Janus.Windows.UI.Tab.UITabPage() {Me.UiTabPage2, Me.UiTabPage7, Me.UiTabPage5, Me.UiTabPage6, Me.UiTabPage1})
         Me.UiTab1.TabsStateStyles.FormatStyle.FontSize = 12.0!
@@ -917,7 +917,7 @@ Partial Class NewDoctorConsult
         Me.UiTabPage2.Controls.Add(Me.SplitContainer2)
         Me.UiTabPage2.Location = New System.Drawing.Point(1, 28)
         Me.UiTabPage2.Name = "UiTabPage2"
-        Me.UiTabPage2.Size = New System.Drawing.Size(1576, 529)
+        Me.UiTabPage2.Size = New System.Drawing.Size(1706, 495)
         Me.UiTabPage2.TabStop = True
         Me.UiTabPage2.Text = "     Patient Diagnosis(ICD-10)     "
         '
@@ -972,7 +972,7 @@ Partial Class NewDoctorConsult
         Me.SplitContainer2.Panel1.Controls.Add(Me.CboEyes)
         Me.SplitContainer2.Panel1.Controls.Add(Me.BtnAddSurgery)
         Me.SplitContainer2.Panel2Collapsed = True
-        Me.SplitContainer2.Size = New System.Drawing.Size(1576, 529)
+        Me.SplitContainer2.Size = New System.Drawing.Size(1706, 495)
         Me.SplitContainer2.SplitterDistance = 193
         Me.SplitContainer2.TabIndex = 22
         '
@@ -1041,7 +1041,7 @@ Partial Class NewDoctorConsult
         Me.GroupBox3.ForeColor = System.Drawing.Color.Blue
         Me.GroupBox3.Location = New System.Drawing.Point(7, 172)
         Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(717, 328)
+        Me.GroupBox3.Size = New System.Drawing.Size(717, 294)
         Me.GroupBox3.TabIndex = 3
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "Medicince Usage:"
@@ -1063,7 +1063,7 @@ Partial Class NewDoctorConsult
         Me.GridPrescription.Location = New System.Drawing.Point(3, 22)
         Me.GridPrescription.Name = "GridPrescription"
         Me.GridPrescription.RecordNavigator = True
-        Me.GridPrescription.Size = New System.Drawing.Size(711, 303)
+        Me.GridPrescription.Size = New System.Drawing.Size(711, 269)
         Me.GridPrescription.TabIndex = 0
         '
         'Label2
@@ -2055,7 +2055,7 @@ Partial Class NewDoctorConsult
         Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripButton1, Me.ToolStripSeparator2, Me.BtnNewReferral, Me.ToolStripSeparator3, Me.BtnViewHistory, Me.ToolStripSeparator4, Me.ToolStripButton2})
         Me.ToolStrip1.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip1.Name = "ToolStrip1"
-        Me.ToolStrip1.Size = New System.Drawing.Size(1596, 53)
+        Me.ToolStrip1.Size = New System.Drawing.Size(1444, 53)
         Me.ToolStrip1.TabIndex = 1
         Me.ToolStrip1.Text = "ToolStrip1"
         '
@@ -2139,7 +2139,7 @@ Partial Class NewDoctorConsult
         '
         Me.SplitContainer1.Panel2.Controls.Add(Me.AxAcroPDF1)
         Me.SplitContainer1.Panel2Collapsed = True
-        Me.SplitContainer1.Size = New System.Drawing.Size(1596, 821)
+        Me.SplitContainer1.Size = New System.Drawing.Size(1444, 821)
         Me.SplitContainer1.SplitterDistance = 1115
         Me.SplitContainer1.TabIndex = 2
         '
@@ -2184,7 +2184,7 @@ Partial Class NewDoctorConsult
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1596, 874)
+        Me.ClientSize = New System.Drawing.Size(1444, 874)
         Me.Controls.Add(Me.SplitContainer1)
         Me.Controls.Add(Me.ToolStrip1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
